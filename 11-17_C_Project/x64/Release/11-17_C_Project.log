@@ -1,0 +1,20 @@
+﻿  main.c
+F:\Cfile\11-17_C_Project\11-17_C_Project\tool.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+F:\Cfile\11-17_C_Project\11-17_C_Project\main.c(1086,44): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+F:\Cfile\11-17_C_Project\11-17_C_Project\main.c(1287,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  소스.c
+F:\Cfile\11-17_C_Project\11-17_C_Project\tool.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '소스.c'을(를) 컴파일하는 중)
+  
+F:\Cfile\11-17_C_Project\11-17_C_Project\소스.c(29,25): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'unsigned short [9]'과(와) 다릅니다.
+F:\Cfile\11-17_C_Project\11-17_C_Project\소스.c(29,25): warning C4024: 'wcscpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+F:\Cfile\11-17_C_Project\11-17_C_Project\소스.c(29,43): warning C4133: '함수': 'CONSOLE_FONT_INFOEX *'과(와) 'const wchar_t *' 사이의 형식이 호환되지 않습니다.
+F:\Cfile\11-17_C_Project\11-17_C_Project\소스.c(127,47): warning C4267: '함수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 30 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  11-17_C_Project.vcxproj -> F:\Cfile\11-17_C_Project\x64\Release\김진영_김현성_프그수행.exe
